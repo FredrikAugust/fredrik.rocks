@@ -41,7 +41,7 @@ body {
   max-width: 1000px;
   margin: auto;
 
-  overflow: hidden;
+  overflow-x: hidden;
 }
 
 pre {
